@@ -1,0 +1,5 @@
+.stack-work/
+collate.cabal
+tags
+.*.sw[nop]
+*~
